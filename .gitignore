@@ -184,3 +184,9 @@ Icon
 *.swo
 *.sublime-project
 *.sublime-workspace
+
+# Medical image
+*.nii.gz
+*.nii
+*.dcm
+
